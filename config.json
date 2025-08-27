@@ -1,0 +1,8 @@
+{ // Template
+  "token": "",
+  "targetsChannel": 123123123123,
+  "guildId": 123123123123,
+  "rank1RoleId": 123123123123,
+  "rank2RoleId": 123123123123,
+  "rank3RoleId": 123123123123
+}
